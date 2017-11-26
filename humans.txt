@@ -4,6 +4,7 @@
 # TEAM
 
    Godzilla -- dev -- @God
+   Dave Alderson -- Manager -- @dsa027
 
 # THANKS
 
